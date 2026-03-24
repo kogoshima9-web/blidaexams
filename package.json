@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "npm": {
+    "deprecated": false
+  },
   "dependencies": {
     "@google/genai": "^1.46.0",
     "@supabase/supabase-js": "^2.99.3",
