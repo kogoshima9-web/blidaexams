@@ -1,0 +1,50 @@
+# JSON Import Format Guide
+
+## 1. Simple Key-Value (Config)
+```json
+{
+  "name": "John",
+  "age": 30,
+  "email": "john@example.com"
+}
+```
+
+## 2. Array of Objects (List Data)
+```json
+{
+  "users": [
+    { "id": 1, "name": "Alice", "role": "admin" },
+    { "id": 2, "name": "Bob", "role": "user" }
+  ]
+}
+```
+
+## 3. Nested Objects (Hierarchical)
+```json
+{
+  "company": "Acme",
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "country": "USA"
+  }
+}
+```
+
+## 4. Mixed with Arrays & Objects
+```json
+{
+  "title": "Shopping List",
+  "items": ["apples", "bread", "milk"],
+  "metadata": {
+    "created": "2024-01-01",
+    "priority": "high"
+  }
+}
+```
+
+## Rules:
+- Keys must be in double quotes
+- Strings in double quotes
+- No trailing commas
+- Valid types: string, number, boolean, null, array, object

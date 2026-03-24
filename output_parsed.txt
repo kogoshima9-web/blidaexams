@@ -1,0 +1,557 @@
+Total questions: 88
+
+Q11 | Quelle est la réponse fausse :
+ANSWER: ?
+  a. La yohimbine est un antagoniste alpha 2
+  b. La prazosine (Minipress®) est un antagoniste alpha 1
+  c. Le labétalol (Trandate®) est un antagoniste alpha 1
+  d. La néosynéphrine est un agoniste alpha 2
+  e. L’adrénaline est un agoniste alpha 1 et alpha 2
+
+Q22 | Les effets suivants sont dose-dépendants :
+ANSWER: ?
+  a. Effets latéraux de type pharmacologique (exemple : réaction atropinique d’antidépresseurs imipraminiques)
+  b. Effets toxiques (nécrose hépatique par paracétamol)
+  c. Réaction immunoallergique (agranulocytose à la noramidopy- rine)
+  d. Réaction idiosyncrasiques (anémie hémolytique en cas de défi- cit en cas de déficit en G6PD)
+  e. Réaction d’hypersensibilité (réponse exagérée de sujets âgés aux atropiniques)
+
+Q33 | Le temps de ½-vie d’élimination de digoxine chez l’insuffisant
+ANSWER: c
+  a. 1 heure
+  b. 6 heures
+  c. 36 heures
+  d. 5 heures
+  e. 10 heures
+
+Q44 | Une molécule médicamenteuse traverse les membranes biolo-
+ANSWER: ?
+  a. Sa liposolubilité
+  b. Son degré d’ionisation
+  c. Sa liaison aux protéines
+  d. La nécessité de la présence d’un transporteur
+  e. La nécessité d’un apport d’énergie
+
+Q55 | La théophylline
+ANSWER: abc
+  a. Est une base xanthique
+  b. Inhibe la libération des catécholamines
+  c. Possède des propriétés diurétiques
+  d. A une action spasmolytique sur le muscle lisse
+
+Q66 | Les glucosides cardiotoniques :
+ANSWER: ?
+  a. Leur action est inotrope positive à doses thérapeutiques
+  b. Ils inhibent l’ATPase membranaire du myocarde
+  c. La digoxine a une meilleure biodisponibilité que la digitoxine
+  d. L’élimination de la digoxine se fait par dégradation hépatique
+  e. La ½-vie d’élimination de la digoxine est d’environ 5 à 3 jours
+
+Q1100 | La biotransformation des médicaments peut être influencée
+ANSWER: ab
+  a. Age
+  b. Sexe
+  c. Dose administrée
+  d. Association d’autres médicaments
+
+Q1111 | La résorption d’une molécule médicamenteuse à travers la mu-
+ANSWER: ?
+  a. Le pH
+  b. La forme pharmaceutique utilisée
+  c. La liposolubilité de la molécule
+  d. La présence simultanée d’autres médicaments
+
+Q1122 | On administre à un malade en 2 prises quotidiennes un médica-
+ANSWER: abcd
+
+Q1133 | Quel est l’antispasmodique qui possède des propriétés atropi-
+ANSWER: b
+
+Q1144 | Effet dopaminergique périphérique
+ANSWER: d
+  a. Augmentation de la fréquence cardiaque
+  b. Bronchodilatation
+  c. Vasodilatation rénale
+
+Q1155 | La prazosine (Minipress®)
+ANSWER: c
+  a. Bloque les récepteurs 1 postsynaptique
+  b. Bloque les récepteurs 2 postsynaptique
+  c. Bloque les récepteurs ß et  postsynaptiques
+
+Q1166 | Le volume de distribution du médicament dans l’organisme
+ANSWER: abcd
+  a. Est un volume fictif
+  b. Peut dépasser le volume total de l’organisme
+  c. Varie en fonction du degré de fixation protéique du médica- ment
+  d. Est corrélé à la concentration plasmatique de ce médicament
+  e. Augmente avec l’âge
+
+Q1177 | L’atropine exerce les effets suivants
+ANSWER: ?
+  a. Tachycardie
+  b. Bronchoconstriction
+  c. Augmentation des sécrétions salivaires, gastriques et intesti- nales
+  d. Mydriase
+  e. Diminution des péristaltismes intestinal et vésical
+
+Q1188 | La modification de la fixation protéique des médicaments est
+ANSWER: ?
+  a. Syndrome néphrotique
+  b. Syndrome inflammatoire
+  c. Prématurité
+  d. Insuffisance thyroïdienne
+
+Q1199 | Effets alpha-adrénergiques
+ANSWER: ?
+  a. Augmentation de la pression artérielle diastolique
+  b. Mydriase passive
+  c. Vasoconstriction des artères rénales
+  d. Augmentation de la sécrétion de rénine
+
+Q2200 | Quel effet indésirable n’est pas classique avec la clonidine :
+ANSWER: ad
+  a. Anémie hémolytique
+  b. Bradycardie sinusale
+  c. Somnolence
+  d. Hypotension orthostatique
+  e. Rebond hypertensif à l’arrêt du médicament
+
+Q2211 | L’activité anticholinergique, source d’effets indésirables, peut
+ANSWER: a
+  a. Morphinique
+  b. Antidépresseurs tricycliques
+  c. Neuroleptiques
+  d. Antihistaminiques
+  e. Antispasmodiques du tube digestif
+
+Q2222 | L’acétylcholine
+ANSWER: ab
+  a. Produit un myosis actif
+  b. Agit sur les récepteurs muscariniques
+  c. Agit sur les récepteurs alpha 2 adrénergiques
+  d. Est contre-indiquée en cas d’hypertrophie prostatique
+
+Q2233 | La fixation d’un médicament aux protéines plasmatiques dépend
+ANSWER: abcd
+  a. Du nombre de sites de fixation
+  b. De l’affinité
+  c. De la concentration plasmatique du médicament
+  d. De la concentration plasmatique de la protéine porteuse
+
+Q2244 | L’isoprénaline
+ANSWER: ?
+  a. Est un sympathomimétique agoniste bêta
+  b. Exerce des actions cardiaques inotropes et chronotropes posi- tives
+  c. Est vasodilatatrice sur les artères rénales et mésentériques
+  d. Ne modifie pas le débit cardiaque
+  a. L’existence d’une forme pharmaceutique adaptée d’administration particulière
+
+Q2255 | Le métoclopramide
+ANSWER: abc
+  a. Est un antiémétique
+  b. Augmente la pression du sphincter inférieur de l’œsophage
+  c. Diminue les contractions antrales
+  d. Appartient au groupe des benzamides neuroleptiques
+  e. Peut être responsable de dyskinésie
+
+Q3366 | Les effets indésirables des corticoïdes administrés au long cours
+ANSWER: cd
+
+Q2266 | Tous les médicaments suivants sont inducteurs enzymatiques,
+ANSWER: cd
+  a. Phénytoïne
+  b. Carbamazépine
+  c. Aspirine
+  d. Erythromycine
+  e. Rifampicine ?
+
+Q2277 | L’administration de dopamine chez un malade en état de choc
+ANSWER: ?
+  a. Une vasodilatation des artères rénales par l’intermédiaire des récepteurs dopaminergiques
+  b. Une vasoconstriction périphérique par l’intermédiaire des ré- cepteurs adrénergiques
+  c. Une augmentation du débit cardiaque
+
+Q2288 | Les médicaments qui peuvent entraîner une gynécomastie
+ANSWER: bce
+  a. Corticoïdes
+  b. Spironolactone
+  c. Alpha-méthyl dopa
+  d. Furosémide
+  e. Cimétidine
+
+Q2299 | Le traitement par corticoïdes provoque le ou les effets suivants :
+ANSWER: ?
+  a. Une fuite rénale de sodium
+  b. Une rétention de potassium
+  c. Une amyotrophie
+  d. Une hyperglycémie
+  e. Une hypercalcémie
+
+Q3300 | Les antagonistes des AVK sont les suivants :
+ANSWER: ?
+  a. Protamine
+  b. Vitamine K
+  c. Antifibrinolytiques
+  d. PPSB
+
+Q3311 | Signes observés lors du syndrome de sevrage au opiacés
+ANSWER: cd
+
+Q3377 | Les antidépresseurs tricycliques peuvent induire les effets indé-
+ANSWER: acd
+
+Q3388 | Le passage transmembranaire d’une substance par diffusion pas-
+ANSWER: abc
+
+Q3399 | On peut attribuer aux benzodiazépines un effet :
+ANSWER: ?
+  a. Anticonvulsivant
+  b. Amnésiant
+  c. Hypnotique
+  d. Myorelaxant
+  e. De rétention urinaire
+
+Q4400 | Effets indésirables suivants, lesquels :
+ANSWER: ac
+  a. Agranulocytose
+  b. Alopécie
+  c. Nécrose cutanée
+  d. Thrombopénie
+
+Q4411 | Quelle est la propriété que n’ont pas en commun les neurolep-
+ANSWER: d
+  a. Alpha bloquant
+  b. Anticholinergique
+  c. Antisérotonine
+  d. Antihistamine H1
+  e. Inhibition du recaptage de la noradrénaline
+
+Q4422 | Quel est l’antihypertenseur susceptible de provoquer une hyper-
+ANSWER: abcd
+
+Q3322 | Le principal effet secondaire des agents bloquants les récep-
+ANSWER: ?
+  a. Céphalée
+  b. Hypotension orthostatique
+  c. Rétention urinaire
+  d. Douleurs angineuses
+
+Q3333 | Tous les médicaments suivants sont capables de potentialiser
+ANSWER: b
+  a. Aspirine
+  b. Indométacine
+  c. Phénobarbital
+  d. Phénylbutazone
+  e. Clofibrate
+
+Q3344 | L’action stimulante intrinsèque d’un bêta-bloquant :
+ANSWER: ?
+  a. Se manifeste plus au repos qu’à l’effort
+  b. Se manifeste plus lors d’une émotion que pendant le sommeil
+  c. Peut s’expliquer par un effet dit agoniste partiel sur les récep- teurs ß-adrénergiques
+  d. Peut s’expliquer par un effet partiel sur récepteur - adrénergique
+  e. Favorise le passage de la barrière hémato-encéphalique
+  a. La dihydralazine
+  b. Le propranolol
+  c. Le minoxidil
+  d. Le furosémide
+
+Q4433 | La néphrotoxicité et l’ototoxicité de la gentamicine sont poten-
+ANSWER: c
+
+Q4444 | Une corticothérapie prolongée peut être responsable
+ANSWER: b
+  a. D’une hypercholestérolémie
+  b. D’une hypokaliémie
+  c. D’une ostéonécrose aseptique de la tête fémorale
+  d. D’une hyponatrémie
+  e. D’un retard de croissance
+
+Q4455 | Les effets d’une stimulation des récepteurs dopaminergiques
+ANSWER: ?
+  a. Diminution de la fréquence cardiaque
+  b. Vasoconstriction cutanée
+  c. Bronchoconstriction
+  d. Vasodilatation rénale
+
+Q3355 | La biodisponibilité d’un médicament désigne :
+ANSWER: ac
+
+Q4466 | Un médicament ß-mimétique possède parmi les propriétés
+ANSWER: abcd
+
+Q4477 | La demi-vie d’un médicament
+ANSWER: bcde
+  a. Est la moitié du temps que met une dose unique de médica- ment pour disparaître en totalité de l’organisme
+  b. Est paramètre pharmacocinétique caractéristique d’un médi- cament donné, pour un sujet donné
+  c. Est le temps au bout duquel la moitié, d’une dose unique de médicament est éliminée
+  d. Peut être mesurée graphiquement sur la courbe de décrois- sance de la concentration sanguine d’un médicament
+  e. Est le temps nécessaire pour que la concentration plasmatique
+  d. Saturer les mécanismes d’élimination du médicament
+  e. Raccourcir la durée totale du traitement
+
+Q5577 | La fixation protéique des médicaments de type acide faible dans
+ANSWER: bde
+  a. Se fait surtout sur l’albumine
+  b. Est réversible
+  c. Est plus forte chez l’homme que chez la femme
+  d. Est généralement saturable
+  e. Diminue en cas de prise concomitante d’un médicament base diminue de moitié faible
+
+Q4488 | Une substance susceptible de bloquer les récepteurs dopaminer-
+ANSWER: ?
+  a. Dompéridone
+  b. Propranolol
+  c. Yohimbine
+
+Q4499 | Le furosémide est responsable de tous les effets suivants sauf
+ANSWER: ?
+  a. Hypokaliémie
+  b. Hyperglycémie
+  c. Elévation de l’uricémie
+  d. Hypoprotidémie
+  e. Hyponatrémie
+
+Q5500 | L’administration de doxycycline chez un patient de 60 ans qui a
+ANSWER: abd
+  a. On modifie ni la dose, ni l’intervalle d’administration
+  b. On diminue de moitié la dose sans modifier l’intervalle
+  c. On ne modifie pas la dose mais on augmente l’intervalle
+  d. On diminue la dose de moitié et on triple l’intervalle NB : les médicaments de type acide faible ont une fixation à forte affinité et à faible nombre de sites (donc saturable). Les sites sont différents de ceux de médicaments bases faibles.
+
+Q5588 | Les médicaments suivants contenant la structure hydrazine :
+ANSWER: ?
+  a. Après hydroxylation hépatique
+  b. Après acétylation hépatique
+  c. Après glycuro-conjugaison hépatique
+  d. Directement par filtration glomérulaire rénale
+  e. Directement par sécrétion tubulaire rénale
+
+Q5599 | La filtration glomérulaire d’un médicament est favorisée direc-
+ANSWER: b
+  a. Une forte lipophilie
+  b. Une forte ionisation au pH du plasma
+  c. Une forte fixation aux protéines plasmatiques
+
+Q5511 | Les transformations métaboliques des médicaments
+ANSWER: bd
+  a. Conduisent, dans la plupart des cas, à des dérivés plus liposo- lubles
+  b. Peuvent conduire à des dérivés actifs
+  c. S’effectuent toujours dans le foie
+  d. Peuvent être l’objet de variations inter individuelles
+
+Q5522 | On peut éviter ou réduire l’importance de l’effet de premier
+ANSWER: abc
+  a. En le prescrivant en suppositoire
+  b. En le prescrivant par voie intramusculaire sous une forme re- tard
+  c. En le prescrivant sous une forme pour application cutanée
+  d. En évitant de réitérer le traitement à intervalles de temps trop rapprochés
+
+Q5533 | Le bêtabloquant qui a l’activité sympathomimétique intrinsèque
+ANSWER: ?
+  a. Propranolol
+  b. Pindolol
+  c. Aténolol
+  d. Métoprolol
+  e. Nadolol
+
+Q5544 | Médicament qui peut conduire à la production de métabolite
+ANSWER: b
+  a. Phénobarbital
+  b. Isoniazide
+  c. Digitoxine
+  d. Gentamycine
+
+Q5555 | La clairance totale d’un médicament peut être estimer en con-
+ANSWER: ?
+  a. La ½-vie plasmatique d’élimination de ce médicament
+  b. Le flux plasmatique rénal
+  c. La clairance rénale de ce médicament
+
+Q5566 | La pratique de la dose de charge donnée au début d’un traite-
+ANSWER: abc
+
+Q6600 | Parmi les médicaments suivants, lequel stimule directement les
+ANSWER: ?
+  a. Trihexyphénidyle (Artane®)
+  b. Halopéridol (Haldol®)
+  c. Bromocriptine (Parlodel®)
+  d. L-dopa + bensérazide (Modopar®)
+  e. Dompéridone (Motilium®)
+
+Q6611 | La plus part des AINS peuvent majorer dangereusement l’effet
+ANSWER: ?
+  a. Une induction enzymatique
+  b. Une inhibition enzymatique
+  c. La défixation protéique par compétition
+
+Q6622 | Le mécanisme le plus vraisemblable de l’action thérapeutique
+ANSWER: c
+  a. Un blocage des récepteurs -adrénergiques
+  b. Un blocage des récepteurs ß-adrénergiques
+  c. Un blocage des récepteurs dopaminergiques
+  d. Une inhibition du recaptage présynaptique des catécholamines
+  e. Un blocage des récepteurs sérotoninergiques
+
+Q6633 | La stimulation des récepteurs ß-adrénergiques provoque :
+ANSWER: cd
+  a. Une vasodilatation
+  b. Un relâchement de l’utérus gravide
+  c. Une augmentation de la sécrétion d’insuline
+
+Q6644 | Les corticostéroïdes par voie orale :
+ANSWER: bcd
+  a. N’ont pas d’action curative sur les maladies rhumatismales
+  b. N’exercent pas d’interactions pharmacocinétiques connues par défixation protéique
+  c. N’exercent pas d’interactions pharmacocinétiques connues par induction enzymatique
+
+Q6655 | Les amphétamines sont des sympathomimétiques dont l’action
+ANSWER: ?
+  a. Myosis
+  b. Tachycardie
+  c. HTA
+  d. Diminution de l’excitabilité myocardique
+  e. Hyperpéristaltisme intestinal
+
+Q6666 | Quel antibiotique qui a la meilleure diffusion dans les espaces
+ANSWER: ?
+  a. Pénicilline G
+  b. Céphalosporine G1
+  c. Colimycine
+  d. Chloramphénicol
+
+Q7777 | L’alphaméthyldopa est susceptible d’induire :
+ANSWER: a
+  a. Une anémie hémolytique auto-immune
+  b. Une anémie hémolytique immunoallergique médicamenteuse
+
+Q7788 | Médicaments qui peuvent être responsable de l’apparition d’un
+ANSWER: bc
+  a. Aspirine
+  b. Bêtabloquants
+  c. Procaïnamide
+  d. Quinidine
+
+Q6677 | La biodisponibilité d’un médicament administré par voie IV vraie
+ANSWER: ?
+
+Q7799 | La demi-vie d’un médicament représente :
+ANSWER: ?
+  a. La moitié de temps nécessaire à l’élimination du médicament contenu dans l’organisme
+  a. Imprévisible
+  b. 50 %
+  c. 100 %
+
+Q6688 | le volume de distribution du médicament dans l’organisme
+ANSWER: ?
+  a. Est un volume théorique
+  b. Peut dépasser le volume total de l’organisme
+  c. Varie en fonction du degré de fixation protéique du médica- ment
+  d. A une incidence sur la concentration plasmatique du médica- ment
+
+Q6699 | Parmi les effets suivants des neuroleptiques phénothiaziniques
+ANSWER: abcd
+
+Q7700 | Les corticoïdes peuvent avoir comme effets :
+ANSWER: ace
+  a. Hypercalcémie
+  b. Rétention hydrosodée
+  c. Augmentation du catabolisme protidique
+  d. Diminution des éosinophiles circulants
+
+Q7711 | Quel est le diurétique qui n’est pas contre-indiqué au cours de
+ANSWER: ?
+  a. Le clopamide
+  b. Le furosémide
+
+Q7722 | Inhibiteur enzymatique
+ANSWER: ?
+  a. Phénytoïne
+  b. Cimétidine
+  c. Phénobarbital (Gardénal®)
+
+Q7733 | Médicaments qui sont susceptibles d’aggraver l’hépatotoxicité
+ANSWER: ?
+  a. Rifampicine
+  b. Phénobarbital
+  c. Isoniazide
+  d. Paracétamol
+
+Q7744 | La morphine
+ANSWER: ?
+  a. Provoque un myosis
+  b. Déprime les centres respiratoires
+  c. Peut être administrée par voie orale
+  d. Est toxicomanogène
+
+Q7755 | La toxicité de la digoxine peut être accrue en cas de :
+ANSWER: ?
+  a. Traitement associé par le fénofibrate
+  b. Hypokaliémie
+  c. Traitement associé à la rifampicine
+  d. Hypercalcémie
+  e. Hypoxie
+
+Q7766 | Les substances suivantes peuvent induire une hyperprolactiné-
+ANSWER: c
+  a. Benzamide (Ex : Primpéran®)
+  b. Phénothiazines (ex : Largactil®)
+  c. Analgésique morphinique
+  d. Cimétidine
+  b. Le temps nécessaire pour éliminer 50% d’une dose administrée par voie orale
+  c. Le temps nécessaire pour que sa concentration plasmatique
+
+Q8800 | Médicaments qui augmentent le tonus de sphincter inférieur de
+ANSWER: c
+
+Q8811 | La biodisponibilité d’un médicament :
+ANSWER: ad
+  a. Est strictement dose dépendante
+  b. Dépend de la voie d’administration
+  c. Est diminuée par l’effet de premier passage
+
+Q8822 | Les médicaments qui peuvent être cause de constipation sont :
+ANSWER: ?
+  a. Le phosphate d’aluminium
+  b. Les opiacés
+  c. L’ampicilline
+  d. Les antidépresseurs tricycliques
+
+Q8833 | Médicaments qui  le tonus du SIO :
+ANSWER: abd
+  a. La dompéridone
+  b. La nifédipine
+  c. Les dérivés nitrés retard
+  d. Le métoclopramide
+  e. L’atropine
+
+Q8844 | Tous les médicaments suivants sont utilisés dans le traitement
+ANSWER: a
+  a. Carbamazépine
+  b. Méthysergide
+  c. Propranolol
+  d. Pizotifène (Sanmigran)
+  e. Dihydroergotamine
+
+Q8855 | Quels les médicaments pour lesquels un surdosage peut être ob-
+ANSWER: ab
+
+Q8866 | Effets secondaires de la Dépakine
+ANSWER: ?
+
+Q8877 | L’état d’équilibre des concentrations plasmatiques de la di-
+ANSWER: abcd
+
+Q8888 | Médicaments qui stimulent directement les récepteurs dopami-
+ANSWER: bd
+
+Q8899 | Effets secondaires d’un AINS en IM
+ANSWER: ?
+
+Q9900 | Cocaïne : sympathomimétique indirect ; effet anesthésique local
+ANSWER: ?
+
+Q9911 | Thiazidiques : hypercholestérolémie ; intolérance au glucose ;
+ANSWER: d
+

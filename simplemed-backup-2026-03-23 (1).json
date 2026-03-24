@@ -1,0 +1,223 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-23T22:45:26.868Z",
+  "exams": [
+    {
+      "id": "e70c246f-5017-4661-9358-024b31176faf",
+      "university": "Université de Sidi Bel Abbès",
+      "year": 2022,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "is_published": true,
+      "created_at": "2026-03-23T22:45:12.13781+00:00",
+      "updated_at": "2026-03-23T22:45:12.13781+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1u0uErozflWdtDlo2cfHtFnebByvvz8Wt/view"
+    },
+    {
+      "id": "54a25360-e5f6-45f6-92d2-3d8e971cd245",
+      "university": "Université de Constantine",
+      "year": 2023,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "is_published": true,
+      "created_at": "2026-03-23T22:44:05.365039+00:00",
+      "updated_at": "2026-03-23T22:44:05.365039+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/13I-lvfeWkxWohEosVRGjbaaKl12IdelK/view"
+    },
+    {
+      "id": "e13f04e3-9c45-46e3-a5dc-7165e5e4b15b",
+      "university": "Université de Constantine",
+      "year": 2022,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "is_published": true,
+      "created_at": "2026-03-23T22:43:33.579156+00:00",
+      "updated_at": "2026-03-23T22:43:33.579156+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1vpBY9DRL0gEpf_hFkgBczWgm9lw8jeOk/view"
+    },
+    {
+      "id": "f954226c-e2b3-4a8e-a7c8-386016c2311b",
+      "university": "Université de Constantine",
+      "year": 2021,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "is_published": true,
+      "created_at": "2026-03-23T22:43:07.497509+00:00",
+      "updated_at": "2026-03-23T22:43:07.497509+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/16dBjcSvrPjlKN0QIuMotklDiUXQ64FGt/view"
+    },
+    {
+      "id": "861ded6a-9c9b-49ea-881e-a69d89866cce",
+      "university": "Université de Constantine",
+      "year": 2023,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "is_published": true,
+      "created_at": "2026-03-23T22:41:28.174546+00:00",
+      "updated_at": "2026-03-23T22:41:28.174546+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1QxHCExnbH45gOxteJbNqFQ6w63HQCNc-/view"
+    },
+    {
+      "id": "19bd2339-26e7-4db9-8bc1-3633bf45ac56",
+      "university": "Université de Sidi Bel Abbès",
+      "year": 2022,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "d50dd155-d7a3-4632-8384-aae21afdbc61",
+      "is_published": true,
+      "created_at": "2026-03-23T22:38:58.579038+00:00",
+      "updated_at": "2026-03-23T22:38:58.579038+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/14KYs1hsmSXxIAEmvjFDpa2B5Reu2AuKk/view"
+    },
+    {
+      "id": "7738508a-4019-4a94-b8b0-06581bbe2bd0",
+      "university": "Université de Constantine",
+      "year": 2023,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "d50dd155-d7a3-4632-8384-aae21afdbc61",
+      "is_published": true,
+      "created_at": "2026-03-23T22:27:36.603035+00:00",
+      "updated_at": "2026-03-23T22:27:36.603035+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/16RWLdVOTlTscb1JKA4achPK2kCtZiIJg/view"
+    },
+    {
+      "id": "45bcb2f3-9a7d-4c45-a0c2-f0d8d0995b49",
+      "university": "Université de Constantine",
+      "year": 2022,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "d50dd155-d7a3-4632-8384-aae21afdbc61",
+      "is_published": true,
+      "created_at": "2026-03-23T22:27:04.630898+00:00",
+      "updated_at": "2026-03-23T22:27:04.630898+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1nt-wogijUDWfcHJAt3BPETIi3OIma0Gy/view"
+    },
+    {
+      "id": "936c4f45-2eb6-4864-94f6-54f6e744acfc",
+      "university": "Université de Constantine",
+      "year": 2021,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "d50dd155-d7a3-4632-8384-aae21afdbc61",
+      "is_published": true,
+      "created_at": "2026-03-23T22:26:13.146545+00:00",
+      "updated_at": "2026-03-23T22:26:13.146545+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1v_uaw36yK6wAskdTVrNnkPHyH1Xnz5GR/view"
+    },
+    {
+      "id": "0ce2c27b-f41d-46fb-9066-cbd0b87f0b0b",
+      "university": "Université de Blida",
+      "year": 2026,
+      "exam_type": "EMD",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "subject_id": "6ec780eb-c51d-498e-94ca-25b1728bbab2",
+      "is_published": true,
+      "created_at": "2026-03-23T22:13:32.068602+00:00",
+      "updated_at": "2026-03-23T22:13:32.068602+00:00",
+      "original_pdf_url": "https://drive.google.com/file/d/1eh6Rdk-CfaS4plRr7ID2HnlW5mMo3CMA/view"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "d50dd155-d7a3-4632-8384-aae21afdbc61",
+      "name": "Endocrinien",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "description": "",
+      "icon": "book",
+      "created_at": "2026-03-23T22:15:25.936405+00:00",
+      "updated_at": "2026-03-23T22:15:25.936405+00:00"
+    },
+    {
+      "id": "6ec780eb-c51d-498e-94ca-25b1728bbab2",
+      "name": "Microbiologie",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "description": "Agents pathogènes : bactériologie, virologie, mycologie, parasitologie",
+      "icon": "book",
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "e8b3d8cd-2c3b-4a7a-8489-56522f6491fe",
+      "name": "Pathologie",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "description": "Étude des maladies et mécanismes pathologiques",
+      "icon": "book",
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "2f27c081-8e77-4ad0-9c6e-2adf9ff4a7cf",
+      "name": "Pharmacologie",
+      "school_year_id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "description": "Médicaments, pharmacocinétique, pharmacodynamie",
+      "icon": "book",
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    }
+  ],
+  "schoolYears": [
+    {
+      "id": "0a96938d-e0c9-4379-afa9-da7d2736c209",
+      "name": "1ère Année",
+      "short_label": "1ère",
+      "display_order": 1,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "df94a412-83af-43d3-b899-b0369e00266d",
+      "name": "2ème Année",
+      "short_label": "2ème",
+      "display_order": 2,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "42a1d506-f092-4114-9242-e6beeaa1c7ef",
+      "name": "3ème Année",
+      "short_label": "3ème",
+      "display_order": 3,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "aec2d327-0c39-417d-8f5e-14364065c4d6",
+      "name": "4ème Année",
+      "short_label": "4ème",
+      "display_order": 4,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "5fc3e0e0-1f38-4bed-819b-81a3d3b244b0",
+      "name": "5ème Année",
+      "short_label": "5ème",
+      "display_order": 5,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "1e53cef9-5fd4-4427-bebb-7ffa2d6f2054",
+      "name": "6ème Année",
+      "short_label": "6ème",
+      "display_order": 6,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    },
+    {
+      "id": "4f54eaa0-df4f-43c9-b7d2-e78d0ae6c5f5",
+      "name": "7ème Année",
+      "short_label": "7ème",
+      "display_order": 7,
+      "created_at": "2026-03-23T22:11:18.361238+00:00",
+      "updated_at": "2026-03-23T22:11:18.361238+00:00"
+    }
+  ],
+  "universities": []
+}

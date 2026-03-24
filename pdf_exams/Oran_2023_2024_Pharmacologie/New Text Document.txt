@@ -1,0 +1,1 @@
+some error shows up when i click save use the  chrome dev tools to see what talking about by using this file D:\vibe\opencode\simplemed\pdf_exams\Oran_2023_2024_Pharmacologie\1.pdf, and   i want it once on the review and save it showse me exacty the paramitiers like when on the add exam(university, date , schoolar year, drive link...)

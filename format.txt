@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "question": "La ménopause (cochez la ou les assertions justes):",
+    "options": [
+      "Est la disparition définitive des règles",
+      "L'âge d'apparition des premières règles est variable",
+      "Correspond à l'apparition des premières régies",
+      "Il se situe entre 40 et 50 ans.",
+      "Correspond à l'arrêt de la fonction cyclique des ovaires"
+    ],
+    "correctAnswer": [0, 3, 4]
+  }
+]
+
+
+# Blida Exams - Format de fichiers
+
+## Format CSV
+
+```csv
+question,optionA,optionB,optionC,optionD,correct,image
+"Quelle est la fonction principale du cœur?","Pomper le sang","Respirer","Digérer","Penser","A",""
+"Quel est le plus grand os du corps humain?","Fémur","Humérus","Tibia","Radius","A",""
+```
+
+### Règles CSV:
+- En-têtes obligatoires: question, optionA, optionB, optionC, optionD, correct, image
+- Le champ "correct" doit contenir A, B, C ou D
+- Le champ "image" est optionnel (laisser vide si pas d'image)
+- Encodage: UTF-8
+- Séparateur: virgule
+
+---
+
+## Format JSON
+
+```json
+{
+  "university": "Blida",
+  "year": 2023,
+  "subject": "Anatomie",
+  "schoolYear": 1,
+  "questions": [
+    {
+      "question": "Quelle est la fonction principale du cœur?",
+      "image": "",
+      "options": ["Pomper le sang", "Respirer", "Digérer", "Penser"],
+      "correct": 0
+    },
+    {
+      "question": "Quel est le plus grand os du corps humain?",
+      "image": "femur.jpg",
+      "options": ["Fémur", "Humérus", "Tibia", "Radius"],
+      "correct": 0
+    }
+  ]
+}
+```
+
+### Règles JSON:
+- university: string (ex: "Blida", "Oran", "Alger")
+- year: number (ex: 2020, 2021, 2022, 2023)
+- subject: string (nom de la matière)
+- schoolYear: number (1 à 7)
+- questions: array d'objets question
+  - question: string (texte de la question)
+  - image: string (optionnel, nom du fichier image)
+  - options: array de strings (minimum 2 options)
+  - correct: number (index de la bonne réponse, 0-based)
+
+---
+
+## Images
+
+Les images doivent être uploadées séparément via l'interface admin.
+Formats supportés: JPG, PNG, WebP
+Taille maximale: 5MB

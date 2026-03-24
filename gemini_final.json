@@ -1,0 +1,430 @@
+{
+  "exam_info": {
+    "university": "Université de Constantine",
+    "year": 2023,
+    "exam_type": "EMD",
+    "subject": "Pharmacologie"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "text": "Concernant l'absorption des médicaments, quelle est (sont) la (les) proposition(s) juste(s) parmi ce qui suit :",
+      "options": [
+        "Elle peut être limitée par un effet de premier passage hépatique.",
+        "Elle peut être quantifiée par la clairance.",
+        "La modification du transit intestinal n'a pas d'influence sur l'absorption des médicaments administrés par voie orale.",
+        "Le risque d'interaction est plus important pour les médicaments absorbés via un mécanisme de transport actif.",
+        "La diffusion passive est un phénomène saturable."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 2,
+      "text": "Lors de l'élimination rénale des médicaments, la filtration glomérulaire :",
+      "options": [
+        "Est un phénomène actif.",
+        "Est saturable.",
+        "Se fait par le biais de transporteurs spécifiques.",
+        "Peut faire l'objet d'un phénomène de compétition.",
+        "Toutes les réponses sont fausses."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "number": 3,
+      "text": "Les interactions médicamenteuses en phase de métabolisme :",
+      "options": [
+        "Sont représentées par l'induction enzymatique qui entraîne une diminution du métabolisme hépatique.",
+        "Peuvent entraîner un échec thérapeutique.",
+        "Sont représentées par l'inhibition enzymatique qui entraîne une accélération du métabolisme hépatique.",
+        "Peuvent entraîner un surdosage.",
+        "Sont toujours pertinentes sur le plan clinique."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 4,
+      "text": "La prescription des médicaments de la liste II :",
+      "options": [
+        "Peut se faire par la DCI ou par le nom commercial.",
+        "Se fait sur une ordonnance extraite d'un carnet à souche.",
+        "Doit mentionner les coordonnées du prescripteur.",
+        "Doit mentionner la posologie des médicaments en toutes lettres.",
+        "La durée maximale de prescription est de 28 jours."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 5,
+      "text": "Concernant la prescription des psychotropes :",
+      "options": [
+        "Se fait sur une ordonnance classique.",
+        "La durée maximale de prescription est de 12 semaines pour les anxiolytiques.",
+        "La durée de validité de l'ordonnance ne peut excéder 3 mois.",
+        "Tout médecin doit enregistrer ces prescriptions sur un registre spécial conservé pendant une année.",
+        "La posologie doit être indiquée en toutes lettres lisibles."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 6,
+      "text": "L'ordonnance :",
+      "options": [
+        "Est un document légal rédigé obligatoirement par un médecin.",
+        "Comporte l'identification du traitement en DCI obligatoire.",
+        "Peut comporter d'autres prescriptions que celles des médicaments (soins infirmiers et paramédicaux, examens complémentaires...).",
+        "Comporte des mentions pharmacologiques comme la posologie.",
+        "Comporte des mentions réglementaires comme le nom et le prénom du patient."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 7,
+      "text": "Les tétracyclines :",
+      "options": [
+        "Agissent en inhibant la synthèse de l'acide nucléique bactérien.",
+        "Agissent en inhibant la synthèse protéique par action sur la sous-unité 30S du ribosome.",
+        "Peuvent entraîner une dyschromie dentaire chez les enfants de moins de 8 ans.",
+        "Ont un spectre d'activité étroit.",
+        "Diffusent mal dans les tissus."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 8,
+      "text": "Les phénicolés :",
+      "options": [
+        "Agissent sur la sous-unité 30S du ribosome.",
+        "Sont bactéricides.",
+        "Peuvent entraîner une toxicité médullaire.",
+        "Peuvent entraîner une photosensibilisation.",
+        "Sont utilisés surtout par voie topique."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 9,
+      "text": "Les aminosides :",
+      "options": [
+        "Ont comme cible principale la sous-unité 30S du ribosome.",
+        "Sont actifs sur les bactéries anaérobies strictes.",
+        "Ont une bonne biodisponibilité par voie orale.",
+        "Sont des antibiotiques de choix en cas d'infections nosocomiales sévères.",
+        "Peuvent entraîner des troubles auditifs."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 10,
+      "text": "Concernant l'association Cisapride + Azythromycine :",
+      "options": [
+        "Il s'agit d'une contre-indication relative",
+        "Il s'agit d'une contre-indication absolue",
+        "L'objectif thérapeutique est d'augmenter la sécurité de l'Acénocoumarol",
+        "L'objectif thérapeutique est de diminuer le coût de l'Acénocoumarol",
+        "L'érythromycine est un inhibiteur enzymatique"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 11,
+      "text": "Concernant les caractéristiques de l'antagonisme fonctionnel :",
+      "options": [
+        "L'agoniste et l'antagoniste se fixent sur le même endroit du récepteur",
+        "L'agoniste et l'antagoniste se fixent sur le même récepteur au niveau de sites différents",
+        "Il peut se produire lors de l'association d'un β bloquant non cardiosélectif et d'un β2 mimétique",
+        "Il peut survenir lors de l'association du salbutamol et de la terbutaline",
+        "On peut restaurer l'effet de l'agoniste par l'augmentation de la concentration de l'antagoniste"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 12,
+      "text": "Concernant les caractéristiques de l'antagonisme non compétitif :",
+      "options": [
+        "L'agoniste peut donner 100% d'effet en présence de l'antagoniste",
+        "La concentration efficace 50 diminue",
+        "Le PD2 augmente",
+        "La puissance de l'agoniste diminue",
+        "L'affinité de l'agoniste pour le récepteur augmente"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 13,
+      "text": "Les récepteur β1 adrénergiques :",
+      "options": [
+        "Sont couplés à la protéine Gs",
+        "Sont couplés à la protéine Gi",
+        "Leur activation entraîne la diminution du calcium intracellulaire",
+        "Leur stimulation entraîne l'inactivation de la Protéine Kinase A",
+        "Leur stimulation entraîne un effet dromotrope positif"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 14,
+      "text": "Concernant le récepteur des stéroïdes :",
+      "options": [
+        "C'est un récepteur membranaire à activité enzymatique",
+        "C'est un récepteur membranaire couplé à la protéine Gs",
+        "La régulation positive augmente la synthèse des protéines anti-inflammatoires",
+        "La régulation négative diminue la synthèse des protéines inflammatoires",
+        "Sans ligand le récepteur se dissocie des protéines HSP."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 15,
+      "text": "Concernant les agonistes β 2 adrénergiques :",
+      "options": [
+        "Le salbutamol en est un exemple.",
+        "Ils peuvent être utilisés dans le traitement de l'asthme.",
+        "Ils entraînent une bronchodilatation",
+        "Ils ont un effet ocytocique",
+        "Ils peuvent avoir comme effet indésirables une glycogénolyse."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 16,
+      "text": "Le propranolol :",
+      "options": [
+        "Est un β bloquant liposoluble",
+        "Est indiqué dans l'insuffisance cardiaque congestive",
+        "Possède un effet β agoniste partiel au repos",
+        "Possède une sélectivité β1 relative et dose dépendante",
+        "Est pourvu d'un effet stabilisateur de la membrane"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 17,
+      "text": "Carbidopa et bensérazide :",
+      "options": [
+        "Sont des sympathomimétiques indirects",
+        "Exercent une action périphérique uniquement",
+        "Inhibent la dopadécarboxylase au niveau du système nerveux central",
+        "Sont des antiparkinsoniens directs",
+        "Sont des sympatholytiques indirects"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 18,
+      "text": "La modélisation moléculaire :",
+      "options": [
+        "Est une simulation des systèmes chimiques",
+        "N'est pas assistée par ordinateur",
+        "Est faite avant l'identification de la cible",
+        "Nécessite la confirmation de l'activité pharmacologique en préalable",
+        "Vise la conception d'un pharmacophore"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 19,
+      "text": "Les essais cliniques de phase I :",
+      "options": [
+        "Permettent le dépistage des réactions d'intolérance",
+        "Permettent de mettre au point la forme galénique",
+        "Sont une étude pilote",
+        "Se font sur des groupes de sujets malades",
+        "Comprennent des groupes de 200 à 500 volontaires"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 20,
+      "text": "Les essais cliniques de phase II :",
+      "options": [
+        "Le nombre des volontaires dans la phase IIA est supérieur à la phase IIB",
+        "Ils se font sur des volontaires sains",
+        "Ils permettent de déterminer les interactions médicamenteuses",
+        "Déterminent la dose optimale en termes d'efficacité",
+        "Détectent les effets indésirables à long terme"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 21,
+      "text": "Parmi les contre-indications des AINS :",
+      "options": [
+        "Ulcère gastroduodénal en évolution",
+        "Asthme",
+        "Insuffisance hépatocellulaire et rénale sévère",
+        "Aménorrhée",
+        "Accidents ischémiques"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 22,
+      "text": "Les antalgiques du palier II :",
+      "options": [
+        "Peuvent être associés aux antidépresseurs",
+        "Sont contre indiqués en cas d'insuffisance respiratoire",
+        "Peuvent être prescrits en cas de grossesse",
+        "Peuvent être associés au paracétamol",
+        "Provoquent nausées et somnolence"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 23,
+      "text": "La buprénorphine :",
+      "options": [
+        "Est un agoniste parfait des récepteurs mu",
+        "Provoque une dépendance psychique plus importante que la morphine",
+        "La naloxone a un effet important sur elle",
+        "Est un traitement rapide et efficace d'une douleur intense",
+        "Produit un métabolite actif"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 24,
+      "text": "L'effet Nocebo :",
+      "options": [
+        "Se voit avec une forme médicamenteuse ne contenant aucune substance active",
+        "Est un effet bénéfique",
+        "Est un effet néfaste",
+        "Est un effet thérapeutique",
+        "N'existe pas"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 25,
+      "text": "Les effets indésirables de type B :",
+      "options": [
+        "Sont prévisibles",
+        "Sont imprévisibles",
+        "Dépendent de la posologie",
+        "Ne dépendent pas de la posologie",
+        "Leur incidence est élevée"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 26,
+      "text": "Parmi les effets suivants, les quels concernent une activité parasympathomimétique :",
+      "options": [
+        "Bradycardie",
+        "Diminution de la sécrétion acide gastrique",
+        "Bronchoconstriction",
+        "Mydriase",
+        "Constipation"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 27,
+      "text": "Tropicamide :",
+      "options": [
+        "Est un parasympathomimétique",
+        "Est utilisé pour le traitement du glaucome",
+        "Est indiqué comme mydriatique en vue de l'examen de fond d'œil",
+        "Est un parasympatholytique",
+        "Est utilisé dans le traitement de l'asthme"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 28,
+      "text": "Parmi les molécules suivantes, laquelle est indiquée en cas de glaucome :",
+      "options": [
+        "Acéclidine",
+        "Tropicamide",
+        "Atropine",
+        "Tiemonium",
+        "Ipratropium"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "number": 29,
+      "text": "Si les doses orales et IV sont différentes, le calcul du facteur de biodisponibilité :",
+      "options": [
+        "Est impossible",
+        "Utilise seulement la valeur de la dose IV",
+        "Utilise la formule générale x l'inverse des doses",
+        "Utilise la formule générale inchangée",
+        "Utilise la formule générale x doses orale"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 30,
+      "text": "Si la concentration plasmatique à la sortie de l'organe est égale à zéro :",
+      "options": [
+        "Le facteur d'extraction est nul",
+        "La clairance est nulle",
+        "Le facteur d'extraction peut être inférieur à 1",
+        "La clairance par l'organe est égale au débit de perfusion",
+        "La clairance par l'organe est égale à la clairance totale"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 31,
+      "text": "La vitesse d'absorption d'un médicament impacte :",
+      "options": [
+        "L'AUC",
+        "La concentration maximale",
+        "Le Tmax",
+        "Le volume de distribution",
+        "La clairance totale"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 32,
+      "text": "L'effet post antibiotique :",
+      "options": [
+        "Permet d'inhiber plusieurs souches bactériennes",
+        "Permet d'augmenter la valeur de la CMI",
+        "Permet de réduire les doses d'antibiotique durant le traitement",
+        "Permet l'inhibition de la croissance bactérienne après élimination du médicament",
+        "Est une action antibiotique dépendante du temps"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 33,
+      "text": "A quelle génération de céphalosporines appartient Céfuroxime ZINNAT® :",
+      "options": [
+        "1 ère génération",
+        "2 ème génération",
+        "3 ème génération",
+        "4 ème génération",
+        "5 ème génération"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 34,
+      "text": "Effets indésirables des beta bloquants :",
+      "options": [
+        "Tachycardie",
+        "Hypertension",
+        "Bronchospasme",
+        "Insuffisance cardiaque",
+        "Syndrome de Raynaud"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 35,
+      "text": "Effets indésirables des IEC :",
+      "options": [
+        "Hypertension",
+        "Hypokaliémie",
+        "Toux sèche",
+        "Insuffisance rénale",
+        "Hypersensibilité"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

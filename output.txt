@@ -1,0 +1,63 @@
+Total questions found: 88
+
+Q11: Quelle est la réponse fausse :
+  ANSWER: ?
+  a. La yohimbine est un antagoniste alpha 2
+  b. La prazosine (Minipress®) est un antagoniste alpha 1
+  c. Le labétalol (Trandate®) est un antagoniste alpha 1
+  d. La néosynéphrine est un agoniste alpha 2
+  e. L’adrénaline est un agoniste alpha 1 et alpha 2
+
+Q22: Les effets suivants sont dose-dépendants :
+  ANSWER: ?
+  a. Effets latéraux de type pharmacologique (exemple : réaction
+
+Q33: Le temps de ½-vie d’élimination de digoxine chez l’insuffisant
+  ANSWER: ?
+
+Q44: Une molécule médicamenteuse traverse les membranes biolo-
+  ANSWER: ?
+
+Q55: La théophylline
+  ANSWER: abc
+  a. Est une base xanthique
+  b. Inhibe la libération des catécholamines
+  c. Possède des propriétés diurétiques
+  d. A une action spasmolytique sur le muscle lisse
+
+Q66: Les glucosides cardiotoniques :
+  ANSWER: ?
+  a. Leur action est inotrope positive à doses thérapeutiques
+  b. Ils inhibent l’ATPase membranaire du myocarde
+  c. La digoxine a une meilleure biodisponibilité que la digitoxine
+  d. L’élimination de la digoxine se fait par dégradation hépatique
+  e. La ½-vie d’élimination de la digoxine est d’environ 5 à 3 jours
+
+Q1100: La biotransformation des médicaments peut être influencée
+  ANSWER: ?
+
+Q1111: La résorption d’une molécule médicamenteuse à travers la mu-
+  ANSWER: ?
+
+Q1122: On administre à un malade en 2 prises quotidiennes un médica-
+  ANSWER: ?
+
+Q1133: Quel est l’antispasmodique qui possède des propriétés atropi-
+  ANSWER: ?
+
+Q1144: Effet dopaminergique périphérique
+  ANSWER: d
+  a. Augmentation de la fréquence cardiaque
+  b. Bronchodilatation
+  c. Vasodilatation rénale
+
+Q1155: La prazosine (Minipress®)
+  ANSWER: c
+Traceback (most recent call last):
+  File "D:\vibe\opencode\simplemed\parse_qcm3.py", line 81, in <module>
+    print(f"  {l}. {t}")
+    ~~~~~^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\uf061' in position 27: character maps to <undefined>

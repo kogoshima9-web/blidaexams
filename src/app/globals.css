@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #fafafa;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-cormorant { font-family: 'Cormorant Garamond', serif; }
+.font-jost { font-family: 'Jost', sans-serif; }
+.font-playfair { font-family: 'Playfair Display', serif; }
+.font-outfit { font-family: 'Outfit', sans-serif; }
+.font-space { font-family: 'Space Grotesk', sans-serif; }
+.font-syne { font-family: 'Syne', sans-serif; }
+.font-fraunces { font-family: 'Fraunces', serif; }
+.font-cardo { font-family: 'Cardo', serif; }
+.font-cinzel { font-family: 'Cinzel', serif; }
+.font-bitter { font-family: 'Bitter', serif; }
+.font-lora { font-family: 'Lora', serif; }
+.font-merriweather { font-family: 'Merriweather', serif; }
+.font-libre { font-family: 'Libre Baskerville', serif; }
+.font-eb { font-family: 'EB Garamond', serif; }
+.font-dm { font-family: 'DM Sans', sans-serif; }
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Jost', system-ui, sans-serif;
+}
+
+@layer base {
+  ::selection {
+    background-color: rgba(99, 102, 241, 0.3);
+    color: inherit;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(99, 102, 241, 0.3); }
+  50% { box-shadow: 0 0 40px rgba(99, 102, 241, 0.6); }
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-shift 8s ease infinite;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
