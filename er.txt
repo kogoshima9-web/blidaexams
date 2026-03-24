@@ -1,25 +1,23 @@
- 231 |       return NextResponse.json({ error: "Question non trouvée" }, { status: 404 });
- 232 |     }
- 233 | 
- 234 |     return NextResponse.json(question);
- 235 |   } catch {
- 236 |     return NextResponse.json({ error: "Erreur lors de la mise à jour" }, { status: 500 });
- 237 |   }
- 238 | }
- 239 | 
- 240 | export async function DELETE(request: NextRequest) {
-     :                       ^^^|^^
-     :                          `-- `DELETE` redefined here
- 241 |   if (!(await checkAuth())) {
- 242 |     return NextResponse.json({ error: "Non autorisé" }, { status: 401 });
- 243 |   }
-     `---- 
-
-
-
-
-
-
-
-
-Error: Command "npm run build" exited with 1
+ 174 |   if (!examId) {
+ 175 |     return NextResponse.json({ error: "examId requis" }, { status: 400 });
+ 176 |   }
+ 177 | 
+ 178 |   const questions = questionsStore.getByExamId(examId);
+ 179 |   return NextResponse.json(questions);
+ 180 | }
+ 181 | 
+ 182 | export async function POST(request: NextRequest) {
+ 183 |   if (!(await checkAuth())) {
+ 184 |     return NextResponse.json({ error: "Non autorisé" }, { status: 401 });
+ 185 |   }
+ 186 | 
+ 187 |   try {
+ 188 |     const data = await request.json();
+ 189 |     const { examId, ...questionData } = data;
+ 190 | 
+ 191 |     if (!examId) {
+ 192 |       return NextResponse.json({ error: "examId requis" }, { status: 400 });
+ 193 |     }
+ 194 | 
+ 195 |     const exam = examsStore.getById(examId);
+ 196 |     if (!exam) {
