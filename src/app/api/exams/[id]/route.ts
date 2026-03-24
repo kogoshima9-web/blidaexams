@@ -29,7 +29,7 @@ export async function GET(
   
   // Sort questions by order
   if (exam.questions) {
-    exam.questions.sort((a, b) => a.question_order - b.question_order);
+    exam.questions.sort((a: any, b: any) => a.question_order - b.question_order);
   }
   
   return NextResponse.json(exam);

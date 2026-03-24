@@ -1,0 +1,25 @@
+ 231 |       return NextResponse.json({ error: "Question non trouvée" }, { status: 404 });
+ 232 |     }
+ 233 | 
+ 234 |     return NextResponse.json(question);
+ 235 |   } catch {
+ 236 |     return NextResponse.json({ error: "Erreur lors de la mise à jour" }, { status: 500 });
+ 237 |   }
+ 238 | }
+ 239 | 
+ 240 | export async function DELETE(request: NextRequest) {
+     :                       ^^^|^^
+     :                          `-- `DELETE` redefined here
+ 241 |   if (!(await checkAuth())) {
+ 242 |     return NextResponse.json({ error: "Non autorisé" }, { status: 401 });
+ 243 |   }
+     `---- 
+
+
+
+
+
+
+
+
+Error: Command "npm run build" exited with 1

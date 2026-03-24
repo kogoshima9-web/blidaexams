@@ -101,8 +101,8 @@ function QuizContent({ examId }: { examId: string }) {
     const correctSet = new Set(correctAnswers);
     const selectedSet = new Set(selectedAnswers);
 
-    const hasAllCorrect = correctAnswers.every(a => selectedSet.has(a));
-    const hasNoWrong = selectedAnswers.every(a => correctSet.has(a));
+    const hasAllCorrect = correctAnswers.every((a: number) => selectedSet.has(a));
+    const hasNoWrong = selectedAnswers.every((a: number) => correctSet.has(a));
     const isCorrect = hasAllCorrect && hasNoWrong;
     const totalCorrect = correctAnswers.length;
     const selectedCorrect = selectedAnswers.filter(a => correctSet.has(a)).length;
