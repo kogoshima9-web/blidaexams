@@ -169,27 +169,7 @@ export function Design4Layout({
 
         <main className="relative z-10 max-w-6xl mx-auto px-8 py-12">{children}</main>
 
-        <footer className="relative z-10 border-t border-black/5 dark:border-white/5">
-          <div className="max-w-6xl mx-auto px-8 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
-            <p className="font-cormorant text-sm text-black/40 dark:text-white/40 italic">
-              {t("footer.copyright")}
-            </p>
-            <div className="flex items-center gap-8">
-              <a href="#" className="font-cormorant text-sm text-black/40 dark:text-white/40 hover:text-black dark:hover:text-white transition-colors italic">
-                {t("nav.about")}
-              </a>
-              <a href="#" className="font-cormorant text-sm text-black/40 dark:text-white/40 hover:text-black dark:hover:text-white transition-colors italic">
-                {t("nav.contact")}
-              </a>
-              <a href="#" className="font-cormorant text-sm text-black/40 dark:text-white/40 hover:text-black dark:hover:text-white transition-colors italic">
-                {t("nav.help")}
-              </a>
-            </div>
-          </div>
 
-          {/* Design Switcher */}
-          {/* Removed theme switcher 1-5 */}
-        </footer>
       </div>
     </LocaleContext.Provider>
   );
